@@ -1,0 +1,231 @@
+
+Log Entry : 11:28:07 lunes, 22 de octubre de 2018
+  :
+  :{
+  "Request": {
+    "ContentType": null,
+    "Url": "http://localhost:50880/api/home/saludar?nombre=Manuel",
+    "Method": "GET",
+    "IpAddress": "127.0.0.1",
+    "Headers": [
+      {
+        "Key": "Connection",
+        "Value": [
+          "keep-alive"
+        ]
+      },
+      {
+        "Key": "Accept",
+        "Value": [
+          "application/json"
+        ]
+      },
+      {
+        "Key": "Accept-Encoding",
+        "Value": [
+          "gzip",
+          "deflate"
+        ]
+      },
+      {
+        "Key": "Accept-Language",
+        "Value": [
+          "es-MX",
+          "es; q=0.8",
+          "en-US; q=0.5",
+          "en; q=0.3"
+        ]
+      },
+      {
+        "Key": "Cookie",
+        "Value": [
+          "hibext_instdsigdipv2=1"
+        ]
+      },
+      {
+        "Key": "Host",
+        "Value": [
+          "localhost:50880"
+        ]
+      },
+      {
+        "Key": "Referer",
+        "Value": [
+          "http://localhost:50880/swagger/ui/index"
+        ]
+      },
+      {
+        "Key": "User-Agent",
+        "Value": [
+          "Mozilla/5.0",
+          "(Windows NT 10.0; Win64; x64; rv:62.0)",
+          "Gecko/20100101",
+          "Firefox/62.0"
+        ]
+      }
+    ],
+    "RequestDateTime": "2018-10-22T11:28:05",
+    "Body": null
+  },
+  "Response": {
+    "ContentType": "application/json; charset=utf-8",
+    "StatusCode": 200,
+    "ResponseDateTime": "2018-10-22T11:28:05",
+    "Body": "Hola Manuel"
+  }
+}
+-------------------------------
+
+Log Entry : 11:30:42 lunes, 22 de octubre de 2018
+  :
+  :{
+  "Request": {
+    "ContentType": null,
+    "Url": "http://localhost:50880/api/home/saludar?nombre=Manuel",
+    "Method": "GET",
+    "IpAddress": "127.0.0.1",
+    "Headers": [
+      {
+        "Key": "Connection",
+        "Value": [
+          "keep-alive"
+        ]
+      },
+      {
+        "Key": "Accept",
+        "Value": [
+          "application/json"
+        ]
+      },
+      {
+        "Key": "Accept-Encoding",
+        "Value": [
+          "gzip",
+          "deflate"
+        ]
+      },
+      {
+        "Key": "Accept-Language",
+        "Value": [
+          "es-MX",
+          "es; q=0.8",
+          "en-US; q=0.5",
+          "en; q=0.3"
+        ]
+      },
+      {
+        "Key": "Cookie",
+        "Value": [
+          "hibext_instdsigdipv2=1"
+        ]
+      },
+      {
+        "Key": "Host",
+        "Value": [
+          "localhost:50880"
+        ]
+      },
+      {
+        "Key": "Referer",
+        "Value": [
+          "http://localhost:50880/swagger/ui/index"
+        ]
+      },
+      {
+        "Key": "User-Agent",
+        "Value": [
+          "Mozilla/5.0",
+          "(Windows NT 10.0; Win64; x64; rv:62.0)",
+          "Gecko/20100101",
+          "Firefox/62.0"
+        ]
+      }
+    ],
+    "RequestDateTime": "2018-10-22T11:30:42",
+    "Body": null
+  },
+  "Response": {
+    "ContentType": "application/json; charset=utf-8",
+    "StatusCode": 200,
+    "ResponseDateTime": "2018-10-22T11:30:42",
+    "Body": "Hola Manuel"
+  }
+}
+-------------------------------
+
+Log Entry : 11:38:06 lunes, 22 de octubre de 2018
+  :
+  :{
+  "Request": {
+    "ContentType": null,
+    "Url": "http://localhost:50880/api/home/saludar?nombre=Manuel",
+    "Method": "GET",
+    "IpAddress": "127.0.0.1",
+    "Headers": [
+      {
+        "Key": "Connection",
+        "Value": [
+          "keep-alive"
+        ]
+      },
+      {
+        "Key": "Accept",
+        "Value": [
+          "application/json"
+        ]
+      },
+      {
+        "Key": "Accept-Encoding",
+        "Value": [
+          "gzip",
+          "deflate"
+        ]
+      },
+      {
+        "Key": "Accept-Language",
+        "Value": [
+          "es-MX",
+          "es; q=0.8",
+          "en-US; q=0.5",
+          "en; q=0.3"
+        ]
+      },
+      {
+        "Key": "Cookie",
+        "Value": [
+          "hibext_instdsigdipv2=1"
+        ]
+      },
+      {
+        "Key": "Host",
+        "Value": [
+          "localhost:50880"
+        ]
+      },
+      {
+        "Key": "Referer",
+        "Value": [
+          "http://localhost:50880/swagger/ui/index"
+        ]
+      },
+      {
+        "Key": "User-Agent",
+        "Value": [
+          "Mozilla/5.0",
+          "(Windows NT 10.0; Win64; x64; rv:62.0)",
+          "Gecko/20100101",
+          "Firefox/62.0"
+        ]
+      }
+    ],
+    "RequestDateTime": "2018-10-22T11:38:05",
+    "Body": null
+  },
+  "Response": {
+    "ContentType": "application/json; charset=utf-8",
+    "StatusCode": 200,
+    "ResponseDateTime": "2018-10-22T11:38:06",
+    "Body": "Hola Manuel"
+  }
+}
+-------------------------------
